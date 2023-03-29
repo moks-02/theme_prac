@@ -21,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://images2.alphacoders.com/831/831880.jpg);
+  --theme-background-image: url(https://w0.peakpx.com/wallpaper/340/144/HD-wallpaper-jojo-dio-brando-with-a-mask-wearing-man-on-back-with-back-of-yellow-and-grean-heart-anime.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(55, 73, 23);
 
   /*
     Main Theme Transparency
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
